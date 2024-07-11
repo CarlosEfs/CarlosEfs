@@ -2,9 +2,6 @@
 
 # Bem-vindo ao Meu Repositório de Ciência de Dados
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/carlosemanoelfsantos/))
-[![GitHub](https://img.shields.io/github/followers/seu-usuario?label=Follow&style=social)](https://github.com/seu-usuario)
-
 ## Sobre Mim
 
 Olá! Eu sou o Carlos Emanoel, moro no Brasil, tenho 22 anos de idade e sou apaixonado por tecnologia. Atualmente faço uma faculdade de tecnólogo em Ciências de dados.
@@ -55,10 +52,10 @@ Criação de visualizações interativas e impactantes para comunicar dados de m
 
 ## Contato
 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/arthurspk)](https://www.linkedin.com/in/carlosemanoelfsantos/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emanoel.carlos15@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/carlosemanoelfsantos/))
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/seu-usuario](https://github.com/CarlosEfs))
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)]([https://medium.com/@seu-usuario](https://medium.com/@emanoel15.carlos))
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CarlosEfs)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@emanoel15.carlos)
 
 
 
