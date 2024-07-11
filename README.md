@@ -23,7 +23,6 @@ Já possuo conhecimentos na área de dados e busco sempre melhorar para agregar 
   </li>
 </ul>
 
-
 ## Principais Habilidades
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -57,6 +56,6 @@ Criação de visualizações interativas e impactantes para comunicar dados de m
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CarlosEfs)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@emanoel15.carlos)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosEfs&layout=compact)
 
 ## Espero que tenham gostado do meu perfil e voltem sempre! 
