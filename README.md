@@ -2,12 +2,12 @@
 
 # Bem-vindo ao Meu Repositório
 
-## Sobre Mim
+## Sobre Mim 🔍
 
 Olá! Eu sou o Carlos Emanoel, moro no Brasil, tenho 22 anos de idade e sou apaixonado por tecnologia. Atualmente faço uma faculdade de tecnólogo em Ciências de dados.
 Já possuo conhecimentos na área de dados e busco sempre melhorar para agregar cada vez mais para a área. No meu tempo livre, amo ler livros de filosofia e por meio dela sempre busco enxergar a vida de formas diferentes e sempre que possível aplico essa visão nos meus aprendizados na área de dados.
 
-#### Meus objetivos são:
+#### Meus objetivos 📘
 
 <ul>
   <li>
@@ -23,7 +23,7 @@ Já possuo conhecimentos na área de dados e busco sempre melhorar para agregar 
   </li>
 </ul>
 
-## Principais Habilidades
+## Principais Habilidades  ⚒️
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -37,7 +37,7 @@ Já possuo conhecimentos na área de dados e busco sempre melhorar para agregar 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-## Trabalho e Contribuições
+## Trabalho e Contribuições 🏆
 
 ### 🎯 Análise de Dados
 Transformando dados complexos em insights significativos para tomada de decisões estratégicas.
@@ -49,7 +49,7 @@ Desenvolvimento de modelos de Machine Learning.
 Criação de visualizações interativas e impactantes para comunicar dados de maneira clara e eficaz.
 
 
-## Contato
+## Contato 📞
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/arthurspk)](https://www.linkedin.com/in/carlosemanoelfsantos/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emanoel.carlos15@gmail.com)
@@ -58,4 +58,4 @@ Criação de visualizações interativas e impactantes para comunicar dados de m
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosEfs&layout=compact)
 
-## Espero que tenham gostado do meu perfil e voltem sempre! 
+## Espero que tenham gostado do meu perfil e voltem sempre!  
