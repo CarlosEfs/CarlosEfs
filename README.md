@@ -1,6 +1,6 @@
 
 
-# Bem-vindo ao Meu Repositório de Ciência de Dados
+# Bem-vindo ao Meu Repositório
 
 ## Sobre Mim
 
